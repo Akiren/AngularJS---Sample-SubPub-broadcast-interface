@@ -1,0 +1,16 @@
+
+.widgetBox1 {
+    max-width:300px;min-height:75px;background-color:lightgray;padding:15px;
+}
+
+.widgetBox2 {
+    max-width:300px;min-height:150px;background-color:lightgray;padding:15px;
+}
+
+.titleStyle1 {
+    color:red;
+}
+
+.titleStyle2 {
+    color:blue;
+}
